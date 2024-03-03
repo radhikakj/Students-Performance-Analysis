@@ -2,16 +2,6 @@
 
 This project explores the performance of students based on various factors such as gender, parental level of education, test preparation, etc. The dataset used for this analysis is the "StudentsPerformance.csv" file.
 
-**Contents**
-
-Description
-
-
-Usage
-
-Contributing
-
-License
 
 **Description**
 
